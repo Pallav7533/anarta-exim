@@ -1,0 +1,145 @@
+uploads = []
+
+[[generated]]
+id = "O5brBI8tXxgCNP0KFlEju"
+uri = "file://artifacts/anarta-exim/src/assets/images/hero.png"
+type = "image"
+title = "Global trade cargo ships"
+
+[[generated]]
+id = "HVO9-x4WZtRBX3K88hu5U"
+uri = "file://artifacts/anarta-exim/src/assets/images/metals.png"
+type = "image"
+title = "Industrial steel hex bolts"
+
+[[generated]]
+id = "mtxEsMze3ob4eZJ7stK4T"
+uri = "file://artifacts/anarta-exim/src/assets/images/spices.png"
+type = "image"
+title = "colorful Indian spices bowls flat lay"
+
+[[generated]]
+id = "19C9VW6SbF-T1BoZQK3aO"
+uri = "file://artifacts/anarta-exim/src/assets/images/jewellery.png"
+type = "image"
+title = "Elegant gold jewelry pieces"
+
+[[generated]]
+id = "R5t663vUdlehmgttFLXXx"
+uri = "file://artifacts/anarta-exim/src/assets/images/hero_port.png"
+type = "image"
+title = "Shipping port aerial view"
+
+[[generated]]
+id = "GutCdT32pk9SqyGOBxJUQ"
+uri = "file://artifacts/anarta-exim/src/assets/images/metals_hero.png"
+type = "image"
+title = "Industrial bolts and fasteners"
+
+[[generated]]
+id = "HpgpPPHh8Gg8h-jZlm55c"
+uri = "file://artifacts/anarta-exim/src/assets/images/bolts_closeup.png"
+type = "image"
+title = "Extreme close-up of bolts"
+
+[[generated]]
+id = "7cLmUVgPIAKGXjuaZBFmI"
+uri = "file://artifacts/anarta-exim/src/assets/images/peb_structure.png"
+type = "image"
+title = "Pre-engineered building structure"
+
+[[generated]]
+id = "Oqzhrsk-tXcgAnId6LeF9"
+uri = "file://artifacts/anarta-exim/src/assets/images/spices_hero.png"
+type = "image"
+title = "Indian spices flat-lay"
+
+[[generated]]
+id = "6oY5gWg0ZmDx3-cxH3xSy"
+uri = "file://artifacts/anarta-exim/src/assets/images/turmeric.png"
+type = "image"
+title = "Turmeric powder and root"
+
+[[generated]]
+id = "oXaw-V3HDfSdfvQe53Vv3"
+uri = "file://artifacts/anarta-exim/src/assets/images/redchilli.png"
+type = "image"
+title = "Vibrant red chilli peppers"
+
+[[generated]]
+id = "ZKBwPq5v0cBL1BK_lBqcx"
+uri = "file://artifacts/anarta-exim/src/assets/images/cumin.png"
+type = "image"
+title = "Cumin seeds in spoon"
+
+[[generated]]
+id = "jD8f7_bSLEPT4Foqkpu5Z"
+uri = "file://artifacts/anarta-exim/src/assets/images/cardamom.png"
+type = "image"
+title = "Green cardamom pods"
+
+[[generated]]
+id = "Q9OdC1Uu4F1MfGRCsuzRq"
+uri = "file://artifacts/anarta-exim/src/assets/images/jewellery_hero.png"
+type = "image"
+title = "Luxury gold jewellery necklace"
+
+[[generated]]
+id = "INEwWnpr0GtZ_Ql5JynMP"
+uri = "file://attached_assets/generated_images/generated_image.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "UWqAGAWBHEcA4NWbBrJjL"
+uri = "file://artifacts/anarta-exim/src/assets/images/coriander.png"
+type = "image"
+title = "raw coriander seeds bowl"
+
+[[generated]]
+id = "0kaJulL5TLMR0mEWXZXOw"
+uri = "file://artifacts/anarta-exim/src/assets/images/blackpepper.png"
+type = "image"
+title = "raw black pepper bowl"
+
+[[generated]]
+id = "3j0KzFvKCjMpWq53GaR3I"
+uri = "file://artifacts/anarta-exim/src/assets/images/cloves.png"
+type = "image"
+title = "raw cloves bowl"
+
+[[generated]]
+id = "IUYQs505WVZOYbSQSs2P-"
+uri = "file://artifacts/anarta-exim/src/assets/images/cinnamon.png"
+type = "image"
+title = "raw cinnamon sticks bowl"
+
+[[outputs]]
+id = "PbuM2uh5i_d7Qmi3trBLk"
+uri = "file://artifacts/anarta-exim/src/assets/images/jewellery_ring.jpg"
+type = "image"
+title = "Ornate Indian gold ring with intricate craftsmanship"
+
+[[outputs]]
+id = "z0r9ApWWMfS9JQpbg_P8X"
+uri = "file://artifacts/anarta-exim/src/assets/images/jewellery_bangles.jpg"
+type = "image"
+title = "Elegant stacked gold bangles"
+
+[[outputs]]
+id = "iavSHT_oENr65EcegKRvo"
+uri = "file://artifacts/anarta-exim/src/assets/images/about_team.jpg"
+type = "image"
+title = "Professional Indian business team in a modern office meeting"
+
+[[outputs]]
+id = "Tj3_huYjubdxyqpVmp1e9"
+uri = "file://artifacts/anarta-exim/src/assets/images/factory.jpg"
+type = "image"
+title = "Interior of a modern industrial factory with clean machinery"
+
+[[outputs]]
+id = "nBXM74IwDEAZa0ocbzCo5"
+uri = "file://artifacts/anarta-exim/src/assets/images/cargo_ship.jpg"
+type = "image"
+title = "Large cargo container ship sailing on open ocean at dramatic sunset"

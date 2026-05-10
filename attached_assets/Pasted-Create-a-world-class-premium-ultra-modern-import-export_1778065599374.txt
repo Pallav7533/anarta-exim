@@ -1,0 +1,313 @@
+Create a world-class, premium, ultra-modern import-export business website for:
+
+COMPANY NAME:
+ANARTA EXIM
+
+TAGLINE:
+"THE SPIRIT OF ANARTA, THE POWER OF TRADE"
+
+---
+
+🌍 CORE OBJECTIVE:
+Design a high-converting, trust-building, globally appealing website that positions ANARTA EXIM as a premium international export brand.
+
+The website must instantly communicate:
+
+* Global credibility
+* Premium quality
+* Industrial strength
+* Reliable export capability
+
+Target Audience:
+
+* International buyers
+* Importers & wholesalers
+* Construction & industrial companies
+* B2B clients worldwide
+
+---
+
+🎯 DESIGN DIRECTION (VERY IMPORTANT):
+
+* Ultra-modern UI (2026 global design standard)
+* Premium corporate feel (like Fortune 500 companies)
+* Minimal + elegant + high-end
+* Dark blue + steel grey + white + subtle gold highlights
+* Glassmorphism + soft gradients + blur effects
+* Smooth micro-interactions & animations
+* High-end typography (Inter / Poppins)
+* Clean spacing + grid-based layout
+
+🌐 GLOBAL VISUAL IDENTITY:
+
+* World map with glowing trade routes
+* Cargo ships, containers, ports, airplanes
+* Industrial environments (factories, steel, construction)
+* Subtle animated background loops
+
+---
+
+🚀 HOME PAGE (HIGH-CONVERSION STRUCTURE):
+
+HERO SECTION:
+
+* Full-screen video/animated background (global trade visuals)
+
+Headline:
+"CONNECTING INDIA TO THE WORLD"
+
+Subheadline:
+"Leading exporter of premium metal products, spices, and jewellery for global markets"
+
+CTA Buttons:
+[Explore Products]  [Get a Quote]
+
+Trust Strip:
+"Serving Global Clients | Premium Quality | Reliable Delivery"
+
+---
+
+🔥 TRUST & AUTHORITY SECTION:
+
+* Global Exporter Badge
+* Quality Certified Materials
+* Reliable Logistics Network
+* Industrial-Grade Manufacturing
+
+Visual Counters:
+
+* 100% Quality Assurance
+* 120,000 PSI Strength
+* Multi-industry Applications
+* Worldwide Client Network
+
+---
+
+🏢 ABOUT SECTION (BRAND STORY):
+
+"Anarta Exim is a globally driven import-export company committed to delivering excellence, precision, and reliability. We specialize in premium metal solutions, high-quality spices, and export-grade jewellery, serving clients across international markets with consistency and trust."
+
+MISSION:
+
+* Deliver superior product quality
+* Ensure reliable global logistics
+* Maintain transparent operations
+* Build long-term international partnerships
+
+VISION:
+To become a globally trusted export brand recognized for innovation, quality, and consistency.
+
+---
+
+📦 PRODUCT EXPERIENCE (PREMIUM UI):
+
+Create interactive product sections with hover effects, icons, and clean cards.
+
+MAIN CATEGORIES:
+
+1️⃣ METAL & INDUSTRIAL SOLUTIONS
+
+* Premium Metal Products
+* Industrial Steel
+* Ferrous & Non-Ferrous Metals
+* PEB Structures
+
+2️⃣ SPICES EXPORT
+
+* Turmeric, Red Chilli, Cumin, Coriander
+* Black Pepper, Cloves, Cardamom, Cinnamon
+* Natural aroma + export-grade processing
+* Hygienic packaging and global standards
+
+3️⃣ JEWELLERY EXPORT
+
+* Premium export-quality jewellery
+* Elegant designs for international markets
+* Custom & bulk order capability
+* High craftsmanship & finishing
+
+---
+
+⚙️ METAL INDUSTRY PAGE (CORE USP):
+
+TITLE:
+"PREMIER FASTENER SOLUTIONS | ENGINEERING EXCELLENCE"
+
+Hex Bolts:
+
+* High-strength precision engineered fasteners
+* Built for extreme durability
+
+Applications:
+
+* Construction
+* Engineering
+* Manufacturing
+
+KEY STATS:
+
+* Tensile Strength: 120,000 PSI
+* 100% Industry Standards
+* Multi-use industrial applications
+
+SCREWS:
+
+* Self Tapping Screws
+* Machine Screws
+* Wood Screws
+* Sheet Metal Screws
+* Allen Screws
+
+WASHERS:
+
+* Load Distribution
+* Surface Protection
+* Anti-loosening
+* Stability enhancement
+
+---
+
+🏗️ PEB STRUCTURE (VISUAL + INTERACTIVE):
+
+What is PEB:
+A modern construction solution where structures are pre-engineered and assembled efficiently on-site.
+
+COMPONENTS:
+
+* Primary Frame
+* Secondary Members
+* Roof & Wall Panels
+* Bracing System
+* Fasteners
+
+ADVANTAGES:
+
+* Faster Construction
+* Cost Efficient
+* High Structural Strength
+* Weather Resistant
+* Low Maintenance
+
+APPLICATIONS:
+
+* Warehouses
+* Industrial Sheds
+* Factories
+* Cold Storage
+* Showrooms
+
+---
+
+💎 JEWELLERY PAGE (PREMIUM GLOBAL FEEL):
+
+* Showcase elegant product visuals
+* Focus on craftsmanship, finishing, and export quality
+* Highlight bulk supply capability
+* Include luxury-style layout (clean white + gold accents)
+* Emphasize international design standards
+
+---
+
+🌶️ SPICES PAGE:
+
+* High-quality Indian spices showcase
+* Strong visuals (farms, raw spices, packaging)
+* Highlight aroma, purity, freshness
+* Export-grade cleaning & packaging process
+* Bulk export capability
+
+---
+
+📞 CONTACT SYSTEM (HIGH-CONVERSION):
+
+* Sticky WhatsApp Button (bottom-right)
+* Floating "Get Quote" button
+* Quick inquiry popup
+
+CONTACT FORM:
+
+* Name
+* Email
+* Phone
+* Message
+  → Direct email to: [anartaexim@gmail.com](mailto:anartaexim@gmail.com)
+
+CONTACT DETAILS:
+📞 +91 9712936916 (Call & WhatsApp)
+📞 +91 8866516005
+📧 [anartaexim@gmail.com](mailto:anartaexim@gmail.com)
+
+ADDRESS:
+327 Anarta Exim, Near 4D Square
+Sangath Mall 1, Motera, Ahmedabad, India
+
+Include:
+
+* Google Map Embed
+* Instant response message after submit
+
+---
+
+🌐 GLOBAL FEATURES (MUST HAVE):
+
+* Language selector (EN / AR / FR / ES)
+* Sticky header
+* Smooth scrolling
+* Fully mobile responsive
+* SEO optimized
+* Fast loading (<2.5 sec)
+* SSL secure (HTTPS)
+* Lazy loading images
+* CDN optimized
+
+---
+
+🧠 TRUST BOOSTERS (VERY IMPORTANT):
+
+* Real product images (not stock only)
+* Export packaging visuals
+* Industrial manufacturing visuals
+
+WHY CHOOSE US:
+
+✔ Premium Quality
+✔ Competitive Pricing
+✔ Reliable Logistics
+✔ Transparent Business
+✔ Long-term Partnerships
+
+Add:
+
+* Client testimonials (international buyers)
+* Inquiry response guarantee (within 24 hours)
+
+---
+
+📰 BLOG SECTION:
+
+Topics:
+
+* Export trends
+* Global trade insights
+* Indian product demand worldwide
+* Industrial manufacturing updates
+
+---
+
+📦 FOOTER (PREMIUM):
+
+* Quick navigation links
+* Contact info
+* Social media icons
+
+Tagline:
+"THE SPIRIT OF ANARTA, THE POWER OF TRADE"
+
+Closing line:
+"Thank You For Choosing Us"
+
+---
+
+🎯 FINAL GOAL:
+
+Build a visually stunning, high-performance, globally trusted website that positions ANARTA EXIM as a premium international export brand and converts visitors into serious business inquiries.
