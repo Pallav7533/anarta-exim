@@ -3,8 +3,11 @@ import react from "@vitejs/plugin-react";
 import tailwindcss from "@tailwindcss/vite";
 import path from "path";
 import runtimeErrorOverlay from "@replit/vite-plugin-runtime-error-modal";
+import { loadEnv } from "vite";
 
-const rawPort = process.env.PORT;
+// Load .env from this artifact's directory at config-evaluation time
+const localEnv = loadEnv("development", import.meta.dirname, "");
+const rawPort = process.env.PORT ?? localEnv.PORT;
 
 if (!rawPort) {
   throw new Error(
@@ -18,7 +21,7 @@ if (Number.isNaN(port) || port <= 0) {
   throw new Error(`Invalid PORT value: "${rawPort}"`);
 }
 
-const basePath = process.env.BASE_PATH;
+const basePath = process.env.BASE_PATH ?? localEnv.BASE_PATH;
 
 if (!basePath) {
   throw new Error(
