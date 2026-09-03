@@ -57,7 +57,7 @@ export function Footer() {
               {[
                 { label: "Metals & Industrial", href: "/products/metals" },
                 { label: "Spices Export", href: "/products/spices" },
-                { label: "Jewellery Export", href: "/products/jewellery" },
+                
               ].map((link, i) => (
                 <li key={i}>
                   <Link href={link.href} className="text-sm text-muted-foreground hover:text-primary transition-colors">{link.label}</Link>

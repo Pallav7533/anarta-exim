@@ -11,12 +11,11 @@ import { useToast } from "@/hooks/use-toast";
 import heroBg from "@/assets/images/hero_port.png";
 import metalsImg from "@/assets/images/metals.png";
 import spicesImg from "@/assets/images/spices.png";
-import jewelleryImg from "@/assets/images/jewellery.png";
 import factoryImg from "@/assets/images/factory.jpg";
 import cargoImg from "@/assets/images/cargo_ship.jpg";
 
 const TICKER_ITEMS = [
-  "METALS & INDUSTRIAL", "PREMIUM SPICES", "JEWELLERY EXPORT",
+  "METALS & INDUSTRIAL", "PREMIUM SPICES",
   "GLOBAL DELIVERY", "QUALITY CERTIFIED", "AHMEDABAD, INDIA",
   "ISO STANDARDS", "120,000 PSI STRENGTH", "24H RESPONSE",
 ];
@@ -205,45 +204,229 @@ export default function Home() {
             <h2 className="text-4xl md:text-5xl font-display font-bold text-foreground mb-5">{t.products.heading}</h2>
             <p className="text-muted-foreground leading-relaxed">{t.products.sub}</p>
           </motion.div>
+          <div className="relative w-full py-4">
+  {/* Decorative background elements */}
+  <div className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 w-[500px] h-[500px] rounded-full bg-primary/5 blur-3xl pointer-events-none" />
 
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-            {[
-              { img: metalsImg, title: t.products.metalsTitle, desc: t.products.metalsDesc, href: "/products/metals" },
-              { img: spicesImg, title: t.products.spicesTitle, desc: t.products.spicesDesc, href: "/products/spices" },
-              { img: jewelleryImg, title: t.products.jewelleryTitle, desc: t.products.jewelleryDesc, href: "/products/jewellery" },
-            ].map((cat, i) => (
-              <motion.div
-                key={i}
-                initial={{ opacity: 0, y: 30 }}
-                whileInView={{ opacity: 1, y: 0 }}
-                viewport={{ once: true }}
-                transition={{ delay: i * 0.15 }}
-              >
-                <Link href={cat.href} className="group block">
-                  <div className="relative overflow-hidden rounded-2xl aspect-[3/4]">
-                    <img
-                      src={cat.img}
-                      alt={cat.title}
-                      className="object-cover w-full h-full transform group-hover:scale-108 transition-transform duration-700"
-                    />
-                    <div className="absolute inset-0 bg-gradient-to-t from-background/95 via-background/30 to-transparent transition-all duration-500" />
-                    {/* Glassmorphism overlay on hover */}
-                    <div className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-500 bg-primary/5 backdrop-blur-[1px]" />
-                    <div className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-500 border border-primary/30 rounded-2xl" />
-                    <div className="absolute bottom-0 left-0 p-8 w-full">
-                      <h3 className="text-2xl font-display font-bold text-foreground mb-2 flex items-center justify-between">
-                        {cat.title}
-                        <span className="w-9 h-9 rounded-full bg-primary/20 group-hover:bg-primary flex items-center justify-center transition-all duration-300">
-                          <ArrowRight className="w-4 h-4 text-primary group-hover:text-primary-foreground transition-colors" />
-                        </span>
-                      </h3>
-                      <p className="text-sm text-muted-foreground line-clamp-2">{cat.desc}</p>
-                    </div>
-                  </div>
-                </Link>
-              </motion.div>
-            ))}
-          </div>
+  <div className="relative mx-auto w-full max-w-6xl px-4">
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-5 md:gap-7 items-center">
+
+      {[
+        {
+          img: metalsImg,
+          title: t.products.metalsTitle,
+          desc: t.products.metalsDesc,
+          href: "/products/metals",
+        },
+        {
+          img: spicesImg,
+          title: t.products.spicesTitle,
+          desc: t.products.spicesDesc,
+          href: "/products/spices",
+        },
+      ].map((cat, i) => (
+        <motion.div
+          key={i}
+          initial={{
+            opacity: 0,
+            y: 40,
+            x: i === 0 ? -20 : 20,
+          }}
+          whileInView={{
+            opacity: 1,
+            y: 0,
+            x: 0,
+          }}
+          viewport={{ once: true, margin: "-80px" }}
+          transition={{
+            duration: 0.7,
+            delay: i * 0.15,
+            ease: [0.22, 1, 0.36, 1],
+          }}
+          className={i === 0 ? "md:-translate-y-5" : "md:translate-y-5"}
+        >
+          <Link href={cat.href} className="group block">
+            <div className="relative aspect-[4/5] md:aspect-[5/6] overflow-hidden rounded-[28px] bg-muted shadow-xl shadow-black/10">
+
+              {/* Image */}
+              <img
+                src={cat.img}
+                alt={cat.title}
+                className="
+                  absolute inset-0
+                  w-full h-full
+                  object-cover
+                  transition-transform
+                  duration-1000
+                  ease-out
+                  group-hover:scale-110
+                "
+              />
+
+              {/* Dark gradient */}
+              <div
+                className="
+                  absolute inset-0
+                  bg-gradient-to-t
+                  from-black/90
+                  via-black/25
+                  to-transparent
+                  opacity-90
+                  transition-opacity
+                  duration-500
+                  group-hover:opacity-100
+                "
+              />
+
+              {/* Hover glow */}
+              <div
+                className="
+                  absolute inset-0
+                  bg-primary/10
+                  opacity-0
+                  group-hover:opacity-100
+                  transition-opacity
+                  duration-500
+                "
+              />
+
+              {/* Border */}
+              <div
+                className="
+                  absolute inset-0
+                  rounded-[28px]
+                  border border-white/10
+                  group-hover:border-primary/50
+                  transition-colors
+                  duration-500
+                "
+              />
+
+              {/* Top category number */}
+              <div className="absolute top-6 left-6">
+                <div
+                  className="
+                    flex items-center justify-center
+                    w-11 h-11
+                    rounded-full
+                    bg-black/25
+                    backdrop-blur-md
+                    border border-white/20
+                    text-white
+                    text-sm
+                    font-semibold
+                    transition-all
+                    duration-500
+                    group-hover:bg-primary
+                    group-hover:border-primary
+                  "
+                >
+                  0{i + 1}
+                </div>
+              </div>
+
+              {/* Arrow */}
+              <div className="absolute top-6 right-6">
+                <div
+                  className="
+                    w-12 h-12
+                    rounded-full
+                    bg-white/10
+                    backdrop-blur-md
+                    border border-white/20
+                    flex items-center justify-center
+                    transition-all
+                    duration-500
+                    group-hover:bg-primary
+                    group-hover:scale-110
+                    group-hover:border-primary
+                  "
+                >
+                  <ArrowRight
+                    className="
+                      w-5 h-5
+                      text-white
+                      transition-transform
+                      duration-500
+                      group-hover:translate-x-1
+                    "
+                  />
+                </div>
+              </div>
+
+              {/* Bottom content */}
+              <div className="absolute bottom-0 left-0 right-0 p-7 md:p-9">
+
+                {/* Small line */}
+                <div
+                  className="
+                    w-10 h-[2px]
+                    bg-primary
+                    mb-4
+                    transition-all
+                    duration-500
+                    group-hover:w-16
+                  "
+                />
+
+                <h3
+                  className="
+                    text-2xl
+                    md:text-3xl
+                    lg:text-4xl
+                    font-display
+                    font-bold
+                    text-white
+                    mb-3
+                    tracking-tight
+                  "
+                >
+                  {cat.title}
+                </h3>
+
+                <p
+                  className="
+                    text-sm
+                    md:text-base
+                    text-white/70
+                    leading-relaxed
+                    max-w-md
+                    line-clamp-2
+                    transition-colors
+                    duration-300
+                    group-hover:text-white/90
+                  "
+                >
+                  {cat.desc}
+                </p>
+
+                {/* Explore */}
+                <div
+                  className="
+                    mt-5
+                    flex items-center gap-2
+                    text-xs
+                    uppercase
+                    tracking-[0.2em]
+                    font-semibold
+                    text-white/60
+                    transition-all
+                    duration-500
+                    group-hover:text-primary
+                    group-hover:gap-4
+                  "
+                >
+                  <span>Explore Collection</span>
+                  <ArrowRight className="w-4 h-4" />
+                </div>
+              </div>
+            </div>
+          </Link>
+        </motion.div>
+      ))}
+    </div>
+  </div>
+</div>
         </div>
       </section>
 

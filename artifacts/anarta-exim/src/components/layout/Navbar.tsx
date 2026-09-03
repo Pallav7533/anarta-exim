@@ -75,9 +75,6 @@ export function Navbar() {
                   <Link href="/products/spices" className="text-sm px-4 py-2.5 hover:bg-primary/10 hover:text-primary rounded-lg text-foreground transition-colors block font-medium">
                     {t.nav.spices}
                   </Link>
-                  <Link href="/products/jewellery" className="text-sm px-4 py-2.5 hover:bg-primary/10 hover:text-primary rounded-lg text-foreground transition-colors block font-medium">
-                    {t.nav.jewellery}
-                  </Link>
                 </div>
               </div>
             </div>
@@ -146,7 +143,6 @@ export function Navbar() {
           <Link href="/" onClick={() => setIsOpen(false)} className="text-2xl font-display font-medium text-foreground hover:text-primary transition-colors">{t.nav.home}</Link>
           <Link href="/products/metals" onClick={() => setIsOpen(false)} className="text-2xl font-display font-medium text-foreground hover:text-primary transition-colors">{t.nav.metals}</Link>
           <Link href="/products/spices" onClick={() => setIsOpen(false)} className="text-2xl font-display font-medium text-foreground hover:text-primary transition-colors">{t.nav.spices}</Link>
-          <Link href="/products/jewellery" onClick={() => setIsOpen(false)} className="text-2xl font-display font-medium text-foreground hover:text-primary transition-colors">{t.nav.jewellery}</Link>
           <Link href="/about" onClick={() => setIsOpen(false)} className="text-2xl font-display font-medium text-foreground hover:text-primary transition-colors">{t.nav.about}</Link>
           <Link href="/contact" onClick={() => setIsOpen(false)} className="text-2xl font-display font-medium text-foreground hover:text-primary transition-colors">{t.nav.contact}</Link>
 

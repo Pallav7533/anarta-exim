@@ -57,7 +57,7 @@ Headline:
 "CONNECTING INDIA TO THE WORLD"
 
 Subheadline:
-"Leading exporter of premium metal products, spices, and jewellery for global markets"
+"Leading exporter of premium metal products, spices for global markets"
 
 CTA Buttons:
 [Explore Products]  [Get a Quote]
@@ -85,7 +85,7 @@ Visual Counters:
 
 🏢 ABOUT SECTION (BRAND STORY):
 
-"Anarta Exim is a globally driven import-export company committed to delivering excellence, precision, and reliability. We specialize in premium metal solutions, high-quality spices, and export-grade jewellery, serving clients across international markets with consistency and trust."
+"Anarta Exim is a globally driven import-export company committed to delivering excellence, precision, and reliability. We specialize in premium metal solutions, high-quality spices, serving clients across international markets with consistency and trust."
 
 MISSION:
 
@@ -119,12 +119,6 @@ MAIN CATEGORIES:
 * Natural aroma + export-grade processing
 * Hygienic packaging and global standards
 
-3️⃣ JEWELLERY EXPORT
-
-* Premium export-quality jewellery
-* Elegant designs for international markets
-* Custom & bulk order capability
-* High craftsmanship & finishing
 
 ---
 
@@ -197,14 +191,6 @@ APPLICATIONS:
 * Showrooms
 
 ---
-
-💎 JEWELLERY PAGE (PREMIUM GLOBAL FEEL):
-
-* Showcase elegant product visuals
-* Focus on craftsmanship, finishing, and export quality
-* Highlight bulk supply capability
-* Include luxury-style layout (clean white + gold accents)
-* Emphasize international design standards
 
 ---
 

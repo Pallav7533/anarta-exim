@@ -18,11 +18,6 @@ uri = "file://artifacts/anarta-exim/src/assets/images/spices.png"
 type = "image"
 title = "colorful Indian spices bowls flat lay"
 
-[[generated]]
-id = "19C9VW6SbF-T1BoZQK3aO"
-uri = "file://artifacts/anarta-exim/src/assets/images/jewellery.png"
-type = "image"
-title = "Elegant gold jewelry pieces"
 
 [[generated]]
 id = "R5t663vUdlehmgttFLXXx"
@@ -78,11 +73,6 @@ uri = "file://artifacts/anarta-exim/src/assets/images/cardamom.png"
 type = "image"
 title = "Green cardamom pods"
 
-[[generated]]
-id = "Q9OdC1Uu4F1MfGRCsuzRq"
-uri = "file://artifacts/anarta-exim/src/assets/images/jewellery_hero.png"
-type = "image"
-title = "Luxury gold jewellery necklace"
 
 [[generated]]
 id = "INEwWnpr0GtZ_Ql5JynMP"
@@ -114,17 +104,6 @@ uri = "file://artifacts/anarta-exim/src/assets/images/cinnamon.png"
 type = "image"
 title = "raw cinnamon sticks bowl"
 
-[[outputs]]
-id = "PbuM2uh5i_d7Qmi3trBLk"
-uri = "file://artifacts/anarta-exim/src/assets/images/jewellery_ring.jpg"
-type = "image"
-title = "Ornate Indian gold ring with intricate craftsmanship"
-
-[[outputs]]
-id = "z0r9ApWWMfS9JQpbg_P8X"
-uri = "file://artifacts/anarta-exim/src/assets/images/jewellery_bangles.jpg"
-type = "image"
-title = "Elegant stacked gold bangles"
 
 [[outputs]]
 id = "iavSHT_oENr65EcegKRvo"

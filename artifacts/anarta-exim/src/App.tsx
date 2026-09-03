@@ -13,7 +13,6 @@ import { LanguageProvider } from "@/context/LanguageContext";
 import Home from "@/pages/home";
 import Metals from "@/pages/metals";
 import Spices from "@/pages/spices";
-import Jewellery from "@/pages/jewellery";
 import About from "@/pages/about";
 import Contact from "@/pages/contact";
 
@@ -54,7 +53,6 @@ function Router() {
             <Route path="/" component={Home} />
             <Route path="/products/metals" component={Metals} />
             <Route path="/products/spices" component={Spices} />
-            <Route path="/products/jewellery" component={Jewellery} />
             <Route path="/about" component={About} />
             <Route path="/contact" component={Contact} />
             <Route component={NotFound} />
